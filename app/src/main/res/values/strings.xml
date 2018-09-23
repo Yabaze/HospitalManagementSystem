@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HospitalManagementSystem</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="mobile_number">Mobile</string>
+    <string name="email">E-Mail</string>
+    <string-array name="gender">
+        <item name="male">Male</item>
+        <item name="female">Female</item>
+        <item name="others">Others</item>
+    </string-array>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="setNewPassword">Set New Password</string>
+    <string name="password">Password</string>
+    <string name="sharedPreferenceKey">credentials</string>
+    <string name="intent_extra_data">username</string>
+    <string name="dash_board">Dashboard</string>
+    <string name="logout">Logout</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="welcome">WELCOME</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

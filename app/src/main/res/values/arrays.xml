@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Specialization">
+        <item name="ENT">ENT</item>
+        <item name="Gynecologist">Gynecologist</item>
+        <item name="Cardiology">Cardiology</item>
+        <item name="Physician">Physician</item>
+        <item name="DutyDoctor">Duty Doctor</item>
+    </string-array>
+</resources>
